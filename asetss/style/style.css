@@ -1,0 +1,34 @@
+
+#header-img-cuppon{
+    width: 100px;  /*esta etiqueta cambia el tamaño de la imagene CUPPON en este caso heighr tambien sirve */
+}
+
+.body{
+    font-family: 'Cormorant Garamond', serif;
+font-family: 'Roboto', sans-serif;
+}
+
+.navbar.navbar-expand-lg.navbar-light.bg-success{
+    color: #28A745;
+}
+
+.justify-content-end
+
+.nav-link.text-white{
+    color: rgb(166,214,171);
+}
+.nav-item{
+    color: #b3b6b8;
+}
+
+.card-img-top{ /*esta es para separar el borde de la imagen del borde de la pantalla es mera estetica*/
+    padding: 10px;
+}
+.container-fluid.bg-success.text-center.p-xs-0.p-md-5{
+    background-color: #28A745;
+}
+
+.mb-2{
+    width: 100px;
+}
+
